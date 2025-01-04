@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // אחזור אלמנטים מה-XML
+        // אחזור אלמנטים מ-XML
         textView = findViewById(R.id.textView);
         editText = findViewById(R.id.editText);
         button = findViewById(R.id.button);
